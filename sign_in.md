@@ -3,3 +3,4 @@
 3. Hasło odpowiada danym wprowadzonym podczas rejestracji.
 4. Przekierowanie do strony Rejestracji.
 
+
